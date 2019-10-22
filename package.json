@@ -1,0 +1,22 @@
+{
+  "name": "papervit",
+  "version": "1.0.0",
+  "description": "PaperVIT is a platform to exchange question papers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Presto412/PaperVIT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Presto412/PaperVIT/issues"
+  },
+  "homepage": "https://github.com/Presto412/PaperVIT#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
